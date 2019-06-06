@@ -1,0 +1,6 @@
+C:\Users\aluno\Downloads\projMedicamento\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe.config
+C:\Users\aluno\Downloads\projMedicamento\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe
+C:\Users\aluno\Downloads\projMedicamento\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.pdb
+C:\Users\aluno\Downloads\projMedicamento\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projMedicamento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\projMedicamento\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.exe
+C:\Users\aluno\Downloads\projMedicamento\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.pdb
